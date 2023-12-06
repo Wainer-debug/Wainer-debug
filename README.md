@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Wainer-debug
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Wainer-debug/Wainer-debug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# ¡Hola, soy Wainer! 👋
+
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador de software Full Stack.
+
+- 🚀 Actualmente trabajando como Desarrollador Full Stack.
+- 🌱 Aprendiendo y mejorando mis habilidades en varias tecnologías de mi interés.
+- 💬 Pregúntame sobre ......
+- ⚡ Dato curioso: .....
+
+¡Gracias por visitar mi perfil! No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o colaboración.
+
+⭐️ ¡Si encuentras algo interesante, no dudes en dejar una estrella!
